@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PalomaTavares
 - 🌱 I’m currently learning C++
-- 📫 You reach me sending an email to palomafernandastavares@gmail.com
+- 📫 You reach me sending an email to palomafstavares@gmail.com
 
 <!---
 PalomaTavares/PalomaTavares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
